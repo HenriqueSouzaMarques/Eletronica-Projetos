@@ -5,7 +5,7 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 ## Alunos
 - #### Pedro Calciolari Jardim Nº USP: 11233668
 - #### João Pedro de Matos Deus Nº USP:
-- #### Henrique Nº USP:
+- #### Henrique Souza Marques Nº USP: 11815722
 - #### Marcos Nº USP: 
 
 ## Lista de Componentes
