@@ -88,3 +88,7 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 ## Vídeo com Explicação da Fonte na Protoboard 
 
 https://drive.google.com/file/d/1tWaukdcJ94E8UQUbEo9vfpB_710ZdAUS/view?usp=sharing
+
+## Agradecimentos
+
+Agradecemos ao Prof. Eduardo do Valle Simões pela oportunidade do desenvolvimento do trabalho e pelos conhecimentos compartilhados ao longo do semestre.
