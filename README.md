@@ -41,7 +41,7 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
         
 -  #### Transistor:
 
-## Componentes e Valores Escolhidos
+## Cálculos e Valores Escolhidos
 
 -   #### Transformador:
     Precisamos transformar a tensão de 127 volts que vem da tomada para os 12 volts que teremos na saída, sabemos que a razão de saída de um transformador é dada por:
