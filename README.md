@@ -75,7 +75,7 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 
 ## Circuito no Falstad
 
-![image](https://user-images.githubusercontent.com/102276547/174796910-df1ef954-a1ed-43c9-93b9-1061216939ce.png)
+![image](https://user-images.githubusercontent.com/102276547/178896952-6f3df1ec-73fe-45f5-a038-b42cbd7a9b28.png)
 
 ## Esquemático PCB
 
