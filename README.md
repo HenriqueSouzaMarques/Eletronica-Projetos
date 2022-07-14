@@ -10,17 +10,17 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 
 ## Lista de Componentes
 
-| Componente       | Valor (R$) | Quantidade |
-|------------------|:----------:|:----------:|
-| Transformador    |    42,30   |      1     |
-| Potenciômetro 10k|     9,90   |      1     |
-| Capacitor 470 uF |    0,45    |      1     |
-| LED              |     0,27   |      1     |
-| Diodo Zener      |     0,22   |      1     |
-| Transistor       |     2,25   |      5     |
-| Resistor(1K e 5K)|    0,93    |      11    |
-| Diodo            |     1,28   |      8     |
-| Total:           |      57,60 |            |
+| Componente        | Valor unidade (R$) | Quantidade |
+|-------------------|:------------------:|:----------:|
+| Transformador     |        42,30       |      1     |
+| Potenciômetro 10k |         9,90       |      1     |
+| Capacitor 1000 uF |         0,88       |      1     |
+| LED               |         0,27       |      1     |
+| Diodo Zener       |         0,22       |      1     |
+| Transistor        |         0,45       |      5     |
+| Resistor(1K e 2K) |         0,14       |      10    |
+| Diodo             |         0,16       |      8     |
+| Total:            |        58,50       |            |
 
 ## Explicação dos  Componentes do Circuito
 
