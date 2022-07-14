@@ -79,15 +79,12 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 
 ## Esquemático PCB
 
-## Imagem PCB no EAGLE/PROTEUS
+![esquematico](https://user-images.githubusercontent.com/102276547/178897100-271a314d-80fd-48f8-80b7-221d812a848e.png)
 
-## Circuito na Protoboard
+## PCB no EAGLE
 
-## Vídeo com simulação e explicação
+![PCB](https://user-images.githubusercontent.com/102276547/178897141-8f8c4519-6c07-4e2f-bd0f-da899dc72a5a.png)
 
+## Vídeo com Explicação da Fonte na Protoboard 
 
-
-
-![image](https://user-images.githubusercontent.com/102276547/174797036-baeecbea-02c2-4191-859d-454221ea3726.png)
-
-![image](https://user-images.githubusercontent.com/102276547/174797102-41c3a54f-6801-4991-ac2f-5616e5b8c88a.png)
+https://drive.google.com/file/d/1tWaukdcJ94E8UQUbEo9vfpB_710ZdAUS/view?usp=sharing
