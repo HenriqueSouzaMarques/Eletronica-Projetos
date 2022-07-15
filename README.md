@@ -39,7 +39,8 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 -  #### Potenciômetro:
     O potenciômetro é a peça do circuito que permite mudanças na tensão (queremos uma fonte de tensão variável). Seu funcionamento é bem simples: basicamente, potenciômetros são resistores com resistência alterável e que, consequentemente, consomem tensão de forma também alterável. Sendo assim, quando se aumenta a resistência fornecida pelo potenciômetro, há aumento no consumo de tensão e, então, diminui-se a tensão de saída. No outro sentido, quando se diminui a resistência fornecida pelo potenciômetro, há diminuição no consumo de tensão e, então, aumenta-se a tensão de saída.
         
--  #### Transistor:
+-  #### Transistor NPN:
+    Este componente foi utilizado apenas para: (i) levar a tensão de saída do potenciômetro (máximo de 13V, igual a tensão do zener) ao aparelho eletrônico que queremos carregar; (ii) finalizar a regulação da tensão de saída. Neste sentindo, como conectamos a saída do zener à base do transistor e o aparelho ao emissor, temos uma queda de tensão de aproximadamente 0.7V no transistor (entre a base e o emissor, temos uma pequena resistência interna, a qual é capaz de consumir esta tensão) e, portanto, temos no máximo 12.3V oferecidos. 
 
 ## Cálculos e Valores Escolhidos
 
@@ -75,7 +76,9 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 
 ## Circuito no Falstad
 
-![image](https://user-images.githubusercontent.com/102276547/178896952-6f3df1ec-73fe-45f5-a038-b42cbd7a9b28.png)
+![circuito_falstad](https://user-images.githubusercontent.com/102276547/179159795-e557efe3-d589-4059-b245-5d0f787a3511.png)
+
+https://tinyurl.com/22d8cxcf
 
 ## Esquemático PCB
 
