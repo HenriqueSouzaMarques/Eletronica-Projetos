@@ -24,4 +24,4 @@ O código que foi desenvolvida para lidar com os obstáculos, ajustando as veloc
 
 ## Vídeo
 
-https://drive.google.com/file/d/1eBehqqMY5K65i_5DfgyINTvoE1gJxD6k/view?usp=sharing
+[Link do Drive com o vídeo do carrinho funcionando](https://drive.google.com/file/d/1eBehqqMY5K65i_5DfgyINTvoE1gJxD6k/view?usp=sharing)
