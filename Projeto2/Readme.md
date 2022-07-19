@@ -10,7 +10,7 @@ O segundo projeto da disciplina Eletrônica para computação, não tinha uma pr
 
 ## Código
 
-O código que foi desenvolvida para lidar com os obstáculos, ajustando as velocidades das duas rodas, está disponível neste repositório.
+[Link para o código utilizado no carrinho](https://github.com/jjonhy/EletronicaFonte/blob/21daa004e1ee59781919a3eddc7fbd593e367afa/Projeto2/CarrinhoProj2.ino)
 
 ## Esquema do circuito
 
