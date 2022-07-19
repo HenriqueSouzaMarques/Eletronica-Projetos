@@ -14,6 +14,7 @@ O código que foi desenvolvida para lidar com os obstáculos está disponível n
 
 ## Esquema do circuito
 
+![circuito](https://github.com/jjonhy/EletronicaFonte/blob/7cfed88fe795d67f0307bafbf3baa438219a5ace/Projeto2/projeto.png)
 
 ## Imagens do circuito montado
 
