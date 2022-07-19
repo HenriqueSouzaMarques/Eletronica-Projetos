@@ -10,7 +10,7 @@ O segundo projeto da disciplina Eletrônica para computação, não tinha uma pr
 
 ## Código
 
-O código que foi desenvolvida para lidar com os obstáculos está disponível neste repositório.
+O código que foi desenvolvida para lidar com os obstáculos, ajustando as velocidades das duas rodas, está disponível neste repositório.
 
 ## Esquema do circuito
 
