@@ -22,6 +22,8 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 | Diodo             |         0,16       |      8     |
 | Total:            |        58,50       |            |
 
+Observação: Preços do Baú da Eletrônica no dia 12/07/2022
+
 ## Explicação dos  Componentes do Circuito
 
 -  #### Transformador:
@@ -46,6 +48,8 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 
 
 ![calculo_ripple](https://user-images.githubusercontent.com/102276547/179756590-b95e3de2-a0bb-438e-adfc-7f13184774d8.jpg)
+
+Os cálculos foram feitos de acordo com o capacitor que ja tinhámos, ou seja, usamos o ripple como variável ao invés de fixar ele e encontrar o valor para o capacitor
 
 
 ## Circuito no Falstad
