@@ -78,7 +78,7 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 
 ![circuito_falstad](https://user-images.githubusercontent.com/102276547/179159795-e557efe3-d589-4059-b245-5d0f787a3511.png)
 
-https://tinyurl.com/22d8cxcf
+https://tinyurl.com/24lqdhxd
 
 ## Esquemático PCB
 
