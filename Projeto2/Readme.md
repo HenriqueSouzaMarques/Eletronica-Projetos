@@ -18,5 +18,8 @@ O código que foi desenvolvida para lidar com os obstáculos, ajustando as veloc
 
 ## Imagens do circuito montado
 
+![foto1](https://github.com/jjonhy/EletronicaFonte/blob/01ebfa6285fd4b34d86b6a068707ea3090a82304/Projeto2/CarrinhoFoto1.jpeg)
+
+![foto2](https://github.com/jjonhy/EletronicaFonte/blob/01ebfa6285fd4b34d86b6a068707ea3090a82304/Projeto2/CarrinhoFoto2.jpeg)
 
 ## Vídeo
