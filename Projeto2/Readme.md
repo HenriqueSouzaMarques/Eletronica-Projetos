@@ -8,6 +8,10 @@ O segundo projeto da disciplina Eletrônica para computação, não tinha uma pr
 - #### Henrique Souza Marques Nº USP: 11815722
 - #### Marcos Patrício Nogueira Filho Nº USP: 11819063
 
+## Código
+
+O código que foi desenvolvida para lidar com os obstáculos está disponível neste repositório.
+
 ## Esquema do circuito
 
 
