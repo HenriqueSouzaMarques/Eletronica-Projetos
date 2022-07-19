@@ -52,7 +52,7 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 
 ![circuito_falstad](https://user-images.githubusercontent.com/102276547/179159795-e557efe3-d589-4059-b245-5d0f787a3511.png)
 
-https://tinyurl.com/24lqdhxd
+[Link para o circuito no Falstad](https://tinyurl.com/24lqdhxd)
 
 ## Esquemático PCB
 
@@ -64,7 +64,7 @@ https://tinyurl.com/24lqdhxd
 
 ## Vídeo com Explicação da Fonte na Protoboard 
 
-https://drive.google.com/file/d/1tWaukdcJ94E8UQUbEo9vfpB_710ZdAUS/view?usp=sharing
+[Link do Drive com o vídeo explicativo](https://drive.google.com/file/d/1tWaukdcJ94E8UQUbEo9vfpB_710ZdAUS/view?usp=sharing)
 
 ## Agradecimentos
 
