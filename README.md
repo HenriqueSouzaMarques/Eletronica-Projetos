@@ -54,6 +54,8 @@ Como primeiro trabalho da disciplina Eletrônica Para Computação, desenvolvemo
 
 [Link para o circuito no Falstad](https://tinyurl.com/24lqdhxd)
 
+Observação: Temos 2 resistores de 2K em série pois eram os que tinhámos disponíveis na hora da montagem, podendo ser substituído por um de 4K.
+
 ## Esquemático PCB
 
 ![esquematico](https://user-images.githubusercontent.com/102276547/178897100-271a314d-80fd-48f8-80b7-221d812a848e.png)
