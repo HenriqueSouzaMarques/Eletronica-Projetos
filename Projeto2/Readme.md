@@ -23,3 +23,5 @@ O código que foi desenvolvida para lidar com os obstáculos, ajustando as veloc
 ![foto2](https://github.com/jjonhy/EletronicaFonte/blob/01ebfa6285fd4b34d86b6a068707ea3090a82304/Projeto2/CarrinhoFoto2.jpeg)
 
 ## Vídeo
+
+https://drive.google.com/file/d/1eBehqqMY5K65i_5DfgyINTvoE1gJxD6k/view?usp=sharing
